@@ -2,7 +2,7 @@
 const display = document.getElementById("change");
 const button = document.getElementById("button");
 
-button.onclick() = () => {
+button.onclick = () => {
     //中身の部分を変えよう！！
     display.textContent = 0;
 }
